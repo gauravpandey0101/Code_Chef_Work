@@ -40,4 +40,4 @@ int main(void)
 	    s2=0;
 	}
 	return 0;
-} 
+}
