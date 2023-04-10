@@ -11,7 +11,7 @@ int main(void) {
 	    {
 	        r=s1%10;
 	        if(r==0 || r==6 || r==9)
-	        {
+	        { 
 	           s2=s2+6;
 	        }
 	        else if(r==1)
