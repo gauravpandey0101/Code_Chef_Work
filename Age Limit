@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main(void) {
+	// your code goes here
+	int T;
+	scanf("%d",&T);
+	while(T--){
+	    int X,Y,A;
+	    scanf("%d%d%d",&X,&Y,&A);
+	    if(A<Y && A>=X)
+	    {
+	        printf("YES\n");
+	    }
+	    else
+	    {
+	        printf("NO\n");
+	    }
+	}
+	return 0;
+}
