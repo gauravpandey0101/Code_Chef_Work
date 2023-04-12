@@ -10,7 +10,7 @@ int main() {
 
 
         // If the length of s is odd, remove the middle character
-        if (s.length() % 2 == 1)
+        if (s.length() % 2 == 1) 
             s.erase(s.length() / 2, 1);
 
         // Create two empty strings for the two halves of s
