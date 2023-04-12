@@ -18,7 +18,7 @@ int main() {
         string s2 = s.substr(s.length() / 2, s.length() / 2);
 
         // Initialize an array to keep track of the frequency of each character
-        int freq[26];
+        int freq[26]; 
         for (int i = 0; i < 26; i++)
             freq[i] = 0;
 
