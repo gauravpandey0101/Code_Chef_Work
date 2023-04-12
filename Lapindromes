@@ -31,7 +31,7 @@ int main() {
         bool ok = true;
         for (int i = 0; i < s2.length(); i++) {
             if (freq[s2[i] - 'a'] == 0) {
-                ok = false;
+                ok = false; 
                 break;
             }
             freq[s2[i] - 'a']--;
