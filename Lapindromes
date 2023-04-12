@@ -20,7 +20,7 @@ int main() {
         // Initialize an array to keep track of the frequency of each character
         int freq[26]; 
         for (int i = 0; i < 26; i++)
-            freq[i] = 0;
+            freq[i] = 0; 
 
         // Update the frequency of each character in the first half
         for (int i = 0; i < s1.length(); i++)
