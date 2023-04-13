@@ -29,7 +29,7 @@ class Codechef
 		    }
 		    if(count==1)   
 		    System.out.println("YES");
-		    else 
+		    else  
 		     System.out.println("NO"); 
 		}
 	}
