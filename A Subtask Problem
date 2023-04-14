@@ -20,7 +20,7 @@ class Codechef
             int [] arr = new int [n];
             for(int j=0;j<n;j++){
                 arr[j]=sc.nextInt();
-            } 
+            }  
              
                 int count=0;
                 for(int j=0;j<n;j++){
