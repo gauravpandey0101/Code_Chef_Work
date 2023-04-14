@@ -25,7 +25,7 @@ class Codechef
                 int count=0;
                 for(int j=0;j<n;j++){
                     if(arr[j]==1){
-                        count++;
+                        count++; 
                     }
                     else if(arr[j]==0){
                         break;
