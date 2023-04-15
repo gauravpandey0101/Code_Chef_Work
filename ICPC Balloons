@@ -26,7 +26,7 @@ class Codechef
 		        res += 1; 
 		        if(ll.size() == 7) break;
 		    }
-		    System.out.println(res);
+		    System.out.println(res); 
 		}
 	}
  
