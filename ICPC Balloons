@@ -23,7 +23,7 @@ class Codechef
 		        if(arr[i]<8){
 		            ll.add(arr[i]);
 		        }
-		        res += 1;
+		        res += 1; 
 		        if(ll.size() == 7) break;
 		    }
 		    System.out.println(res);
